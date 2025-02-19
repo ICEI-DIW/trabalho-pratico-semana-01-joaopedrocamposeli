@@ -3,10 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: João Pedro Campos Elizário 
+Matricula: 891100
 
 ## Tela de inspeção com navegador
+
 
 
 ## Tela de projeto no Replit
